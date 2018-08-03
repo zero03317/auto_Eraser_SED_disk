@@ -7,3 +7,5 @@ Please use scp command like "scp -P22 sedscan.sh root@192.168.X.X:/root"  into y
 sh sedscan.sh
 ```
 # Demo
+1.Function one : scan your sed status
+![capture](https://user-images.githubusercontent.com/22950881/43627404-de7f6ca4-9728-11e8-8903-4a77ff4d5fee.PNG)
